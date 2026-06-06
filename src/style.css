@@ -68,13 +68,16 @@ body {
 }
 
 .notifications{
+  justify-self: center;
 }
 
 .small-icon{
+  
 }
 
 .name{
   font-weight: bold;
+  font-size: 2rem;
 }
 
 .header-2{
